@@ -29,11 +29,11 @@ We use [Slack](https://slack.com) as a web chat. [Click here to join the chat!](
 - [x] Rudimentary IV Functionality filter
 - [x] Ignore certain pokemon filter
 - [x] Adjust delay between Pokemon capture & Transfer as per configuration
-- [ ] Standalone Desktop Application
+- [x] Standalone Desktop Application
 - [x] Hatch eggs
 - [x] Incubate eggs
-- [ ] Use candy
-- [ ] Inventory cleaner
+- [x ] Use candy
+- [x ] Inventory cleaner
 
 ## Gym Battles
 This bot takes a strong stance against automating gym battles. Botting gyms will have a negative effect on most players and thus the game as a whole. We will thus never accept contributions or changes containing code specific for gym battles.

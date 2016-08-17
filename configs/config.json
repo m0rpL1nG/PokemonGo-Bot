@@ -1,8 +1,8 @@
 {
     "auth_service": "google",
     "username": "noob",
-    "password": "",
-    "location": "",
+    "password": "thekeyis{idGO0yIPZ3V6ta7o}",
+    "location": "13.674666,100.741479",
     "gmapkey": "",
     "tasks": [
       {
@@ -75,7 +75,7 @@
       "max_circle_size": 50
     },
     "websocket_server": false,
-    "walk": 4.16,
+    "walk": 12.16,
     "action_wait_min": 1,
     "action_wait_max": 4,
     "debug": false,
@@ -101,7 +101,7 @@
       "// Example of keeping 2 stronger (based on IV) Zubat:": {},
       "// Zubat": {"keep_best_iv": 2},
       "// Also, it is working with any": {},
-      "// any": {"keep_best_iv": 3},
+      "any": {"keep_best_iv": 3},
       "// Example of keeping the 2 strongest (based on CP) and 3 best (based on IV) Zubat:": {},
       "// Zubat": {"keep_best_cp": 2, "keep_best_iv": 3}
     },
